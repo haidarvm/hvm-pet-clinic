@@ -1,0 +1,5 @@
+com/haidarvm/hvmpetclinic/model/Pet.class
+com/haidarvm/hvmpetclinic/model/Vet.class
+com/haidarvm/hvmpetclinic/model/Owner.class
+com/haidarvm/hvmpetclinic/model/PetType.class
+com/haidarvm/hvmpetclinic/model/Person.class
