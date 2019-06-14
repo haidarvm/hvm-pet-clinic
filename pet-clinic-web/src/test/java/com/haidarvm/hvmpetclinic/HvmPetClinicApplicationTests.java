@@ -1,4 +1,4 @@
-package hvmpetclinic;
+package com.haidarvm.hvmpetclinic;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
