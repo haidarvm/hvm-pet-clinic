@@ -4,7 +4,7 @@
 
     <groupId>com.haidarvm</groupId>
     <artifactId>hvm-pet-clinic</artifactId>
-    <version>0.0.3-SNAPSHOT</version>
+    <version>0.0.3</version>
 
     <modules>
         <module>pet-clinic-data</module>
@@ -70,7 +70,7 @@
 
     <scm>
         <developerConnection>scm:git:git@github.com:haidarvm/hvm-pet-clinic.git</developerConnection>
-      <tag>HEAD</tag>
+      <tag>hvm-pet-clinic-0.0.3</tag>
   </scm>
 
 </project>
