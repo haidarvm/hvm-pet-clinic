@@ -5,7 +5,9 @@ import com.haidarvm.hvmpetclinic.model.Vet;
 import com.haidarvm.hvmpetclinic.services.OwnerService;
 import com.haidarvm.hvmpetclinic.services.VetService;
 import org.springframework.boot.CommandLineRunner;
+import org.springframework.stereotype.Component;
 
+@Component
 public class DataLoader implements CommandLineRunner {
 
 
