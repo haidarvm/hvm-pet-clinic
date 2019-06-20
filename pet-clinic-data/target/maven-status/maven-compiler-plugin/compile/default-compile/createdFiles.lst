@@ -1,5 +1,14 @@
-com/haidarvm/hvmpetclinic/model/Pet.class
-com/haidarvm/hvmpetclinic/model/Vet.class
-com/haidarvm/hvmpetclinic/model/Owner.class
 com/haidarvm/hvmpetclinic/model/PetType.class
+com/haidarvm/hvmpetclinic/services/VetService.class
 com/haidarvm/hvmpetclinic/model/Person.class
+com/haidarvm/hvmpetclinic/services/map/VetServiceMap.class
+com/haidarvm/hvmpetclinic/model/Owner.class
+com/haidarvm/hvmpetclinic/services/PetService.class
+com/haidarvm/hvmpetclinic/model/BaseEntity.class
+com/haidarvm/hvmpetclinic/services/map/PetServiceMap.class
+com/haidarvm/hvmpetclinic/services/CrudService.class
+com/haidarvm/hvmpetclinic/services/OwnerService.class
+com/haidarvm/hvmpetclinic/model/Vet.class
+com/haidarvm/hvmpetclinic/model/Pet.class
+com/haidarvm/hvmpetclinic/services/map/OwnerServiceMap.class
+com/haidarvm/hvmpetclinic/services/map/AbstractMapService.class

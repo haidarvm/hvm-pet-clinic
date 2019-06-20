@@ -1,5 +1,14 @@
 /home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/Pet.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/map/OwnerServiceMap.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/map/VetServiceMap.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/OwnerService.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/BaseEntity.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/Person.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/VetService.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/map/AbstractMapService.java
 /home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/Owner.java
 /home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/Vet.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/PetService.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/map/PetServiceMap.java
+/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/services/CrudService.java
 /home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/PetType.java
-/home/haidar/public_html/spring/hvm-pet-clinic/pet-clinic-data/src/main/java/com/haidarvm/hvmpetclinic/model/Person.java
