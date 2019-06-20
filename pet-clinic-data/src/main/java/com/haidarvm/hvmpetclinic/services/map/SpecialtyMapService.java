@@ -1,11 +1,13 @@
 package com.haidarvm.hvmpetclinic.services.map;
 
 import com.haidarvm.hvmpetclinic.model.Specialty;
-import com.haidarvm.hvmpetclinic.services.SpecialtiesService;
+import com.haidarvm.hvmpetclinic.services.SpecialtyService;
+import org.springframework.stereotype.Service;
 
 import java.util.Set;
 
-public class SpecialtyMapService extends AbstractMapService<Specialty, Long> implements SpecialtiesService {
+@Service
+public class SpecialtyMapService extends AbstractMapService<Specialty, Long> implements SpecialtyService {
 
     @Override
     public Set<Specialty> findAll() {
