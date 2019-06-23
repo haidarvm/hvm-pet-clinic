@@ -1,11 +1,9 @@
-package guru.springframework.sfgpetclinic.services.springdatajpa;
-
+package com.haidarvm.hvmpetclinic.services.springdatajpa;
 
 import com.haidarvm.hvmpetclinic.model.Owner;
 import com.haidarvm.hvmpetclinic.repositories.OwnerRepository;
 import com.haidarvm.hvmpetclinic.repositories.PetRepository;
 import com.haidarvm.hvmpetclinic.repositories.PetTypeRepository;
-import com.haidarvm.hvmpetclinic.services.springdatajpa.OwnerSDJpaService;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.junit.jupiter.api.extension.ExtendWith;
